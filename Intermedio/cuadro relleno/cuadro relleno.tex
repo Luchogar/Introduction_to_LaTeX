@@ -1,0 +1,50 @@
+\documentclass{book}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+
+\begin{document}
+\title{caja de color}
+\author{Luis Ignacio Garcia Reyes}
+\maketitle
+
+\begin{center}{
+\fboxsep 20pt
+\fcolorbox {orange}{white}{
+\begin{minipage}[t]{10cm}
+
+Programa que genera y grafica un impulso unitario\newline
+tmin=input('valor minimo del tiempo: ');\newline
+tmax=input('valor maximo del tiempo: ');\newline
+A=input('Intensidad del impulso: ');\newline
+Np=input('Numero total de puntos: ');\newline
+Nme=input('Numero de multiplos enterosde pi para graficar la transformada: ');\newline
+t=tmin:(tmax-tmin)/Np:tmax;\newline
+origen=find(t==0);\newline
+f=zeros(1,length(t));\newline
+f(origen)=1*A;\newline
+subplot(2,1,1);\newline
+stem(t,f,'.');\newline
+xlabel('t');\newline
+ylabel('f(t)');\newline
+title('Impulso unitario.');\newline
+axis([min(t) max(t) -0.1*max(f) 1.1*max(f)]);\newline
+subplot(2,1,2);\newline
+W=-Nme*pi:2*Nme*pi/Np:Nme*pi;\newline
+F=A*ones(1,length(W));\newline
+plot(W,F);\newline
+xlabel('W');\newline
+ylabel('f(W)');\newline
+title('Transformada de Fourier del impulso.');\newline
+clear all
+clc
+
+\end{minipage}
+}}
+\end{center}
+
+
+
+
+
+\end{document}

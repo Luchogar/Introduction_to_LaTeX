@@ -1,0 +1,41 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\begin{document}
+\title{Tablas}
+\author{Luis Ignacio Garcìa Reyes}
+\maketitle
+% tabular environment creates tables
+% & means "line up here"
+% \\ means "line break here"
+Aqui vamos a hacer referencia a como formar una tabla y algunos estilos diferentes para las mismas.\newline\newline
+Introducimos la funcion $f(x)=\sqrt{x^2+1}$ y damos los siguientes valores:\newline\newline
+\begin{center}
+\begin{tabular}{r|cccc}
+
+$x$ &-1&0&1&2\\
+\hline
+$f(x)$  &$\sqrt{2}$ &1& $\sqrt{2}$ & $\sqrt{5}$
+
+\end{tabular}
+
+\end{center}
+Se muestra evidente la diferencia entre una y otra.
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|} \hline
+x&-1&0&1&2 \\ \cline{1-5}
+$f(x)$&$\sqrt{2}$&1&$\sqrt{2}$&$\sqrt{5}$\\ \hline
+\end{tabular}
+\end{center}
+	Aqui otro ejemplo de tabla.
+\begin{center}
+\begin{tabular}{llllr} \toprule
+$x$ &-1&0&1&2 \\ \midrule
+$f(x)$  &$\sqrt{2}$ &1& $\sqrt{2}$ & $\sqrt{5}$\\ \bottomrule
+\end{tabular}
+\end{center}
+Tambien podemos hacer una serie de ediciones sobre las tablas, como rotarlas, unir celdas unir columnas o renglones etc.
+\end{document}

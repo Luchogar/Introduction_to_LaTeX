@@ -1,0 +1,330 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.21)  5 AUG 2015 11:07
+entering extended mode
+**C:/Users/LuisIgnacio/Documents/Latex/sesiones/Nueva*carpeta*(20)/colores.tex
+("C:/Users/LuisIgnacio/Documents/Latex/sesiones/Nueva carpeta (20)/colores.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2013/12/12 v0.60 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+\XKV@depth=\count88
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count89
+\pstFP@xia=\count90
+\pstFP@xib=\count91
+\pstFP@xfa=\count92
+\pstFP@xfb=\count93
+\pstFP@rega=\count94
+\pstFP@regb=\count95
+\pstFP@regs=\count96
+\pstFP@times=\count97
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
+x"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen103
+\pgfutil@tempdimb=\dimen104
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-li
+sts.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
+ode.tex"
+\pgfkeys@tmptoks=\toks19
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex"
+\pgf@x=\dimen105
+\pgf@xa=\dimen106
+\pgf@xb=\dimen107
+\pgf@xc=\dimen108
+\pgf@y=\dimen109
+\pgf@ya=\dimen110
+\pgf@yb=\dimen111
+\pgf@yc=\dimen112
+\c@pgf@counta=\count98
+\c@pgf@countb=\count99
+\c@pgf@countc=\count100
+\c@pgf@countd=\count101
+\pgfutil@tempcnta=\count102
+\pgfutil@tempcntb=\count103
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.t
+ex"
+\pgfmath@dimen=\dimen113
+\pgfmath@count=\count104
+\pgfmath@box=\box26
+\pgfmath@toks=\toks20
+\pgfmath@stack@operand=\toks21
+\pgfmath@stack@operation=\toks22
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
+tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
+nometric.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
+m.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
+rison.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integ
+erarithmetics.code.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count105
+))
+\pgffor@iter=\dimen114
+\pgffor@skip=\dimen115
+\pgffor@stack=\toks23
+\pgffor@toks=\toks24
+)
+\psLoopIndex=\count106
+
+`PSTricks' v2.49b  <2013/12/21> (tvz)
+\pst@dima=\dimen116
+\pst@dimb=\dimen117
+\pst@dimc=\dimen118
+\pst@dimd=\dimen119
+\pst@dimg=\dimen120
+\pst@dimh=\dimen121
+\pst@dimm=\dimen122
+\pst@dimn=\dimen123
+\pst@dimo=\dimen124
+\pst@dimp=\dimen125
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count107
+\pst@cntb=\count108
+\pst@cntc=\count109
+\pst@cntd=\count110
+\pst@cntg=\count111
+\pst@cnth=\count112
+\pst@cntm=\count113
+\pst@cntn=\count114
+\pst@cnto=\count115
+\pst@cntp=\count116
+\@zero=\count117
+\pst@toks=\toks25
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
+\psunit=\dimen126
+\psxunit=\dimen127
+\psyunit=\dimen128
+\pst@C@@rType=\count118
+\pslinewidth=\dimen129
+\psk@startLW=\dimen130
+\psk@endLW=\dimen131
+\pst@customdefs=\toks26
+\pslinearc=\dimen132
+\pst@symbolStep=\dimen133
+\pst@symbolWidth=\dimen134
+\pst@symbolLinewidth=\dimen135
+\everypsbox=\toks27
+\psframesep=\dimen136
+\pslabelsep=\dimen137
+\sh@wgridXunit=\dimen138
+\sh@wgridYunit=\dimen139
+\pst@shift=\dimen140
+)
+File: pstricks.tex 2013/12/21 v2.49b `PSTricks' (tvz,hv)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2013/12/21 v2.49b `PST-fp' (hv)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count119
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count120
+\U@D=\dimen141
+)
+\es@datefmt=\count121
+\es@quottoks=\toks28
+\es@quotdepth=\count122
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\LuisIgnacio\Documents\Latex\sesiones\Nueva carpeta (20)\colores.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen142
+\scratchbox=\box30
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen143
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks31
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+[2]
+("C:\Users\LuisIgnacio\Documents\Latex\sesiones\Nueva carpeta (20)\colores.aux"
+) ) 
+Here is how much of TeX's memory you used:
+ 8804 strings out of 493921
+ 152115 string characters out of 3144858
+ 201585 words of memory out of 3000000
+ 12024 multiletter control sequences out of 15000+200000
+ 8937 words of font info for 34 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,7n,40p,478b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on colores.pdf (2 pages, 36734 bytes).
+PDF statistics:
+ 21 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
